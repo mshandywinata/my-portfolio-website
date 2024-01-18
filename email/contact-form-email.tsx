@@ -27,10 +27,10 @@ export default function ContactFormEmail({
                 <Head />
                 <Preview>New Message from Your Portfolio</Preview>
                 <Tailwind>
-                    <Body className='bg-gray-200 text-black'>
+                    <Body className='bg-gray-200 text-white'>
                         <Container>
                             <Section
-                                className='bg-blue-300 borderBlue my-10 px-10
+                                className='bg-blue-600 borderBlue my-10 px-10
                                 py-4 rounded-md'
                                 >
                                 <Heading
