@@ -45,8 +45,8 @@ export default function Hero() {
             {/* end profile picture */}
 
             {/* start emoji */}
-            <motion.span className='text-4xl absolute
-            bottom-0 right-0 cursor-default'
+            <motion.span className='text-3xl absolute
+            bottom-0 right-0 cursor-default dark:opacity-100'
               initial={{ opacity: 0, scale: 0, rotate: -90 }}
               animate={{ opacity: 1, scale: 1, rotate: 0 }}
               transition={{ 
