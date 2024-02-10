@@ -146,7 +146,7 @@ export default function Hero() {
             <FaGithubSquare />
           </a>
 
-          <a href="https://instagram/altrnt.if" target='_blank'
+          <a href="https://instagram.com/altrnt.if" target='_blank'
           className='bg-blue-100 p-4 text-gray-700
           flex items-center gap-2 rounded-full borderLightBlue
           focus:scale-[1.15]
