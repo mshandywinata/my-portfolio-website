@@ -2,6 +2,7 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { LuGraduationCap } from "react-icons/lu";
 import ekosTerminal from "@/public/ekos-terminal.png";
+import flyerDesign from "@/public/Poster Infaq Masjid As-Sakinah-100.jpg"
 
 export const links = [
   {
@@ -64,6 +65,12 @@ export const projectsData = [
       "Digital boarding house management app with information-sharing, payment, and chatroom as the main features. Made by Fadhel Raihan, Fauziah Zahra, Aiman Zikri, and Me.",
     tags: ["Python"],
     imageUrl: ekosTerminal,
+  },
+  {
+    title: "Flyer Design",
+    description: "Flyer designs for all purpose from charity to social media posts",
+    tags: ["illustrator"],
+    imageUrl: flyerDesign, 
   },
 ] as const;
 
