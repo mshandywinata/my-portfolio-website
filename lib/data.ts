@@ -77,7 +77,6 @@ export const projectsData = [
 export const skillsData = [
   "HTML",
   "CSS",
-  "JavaScript",
   "Python",
   "After Effects",
   "Illustrator",
